@@ -6,4 +6,4 @@ Requierements:
 # gem install bettercap
 
 To use it you have to run it like:
-# python3 DnsSpoofSniff.py
+# python3 DnsSpooferSniffer.py
